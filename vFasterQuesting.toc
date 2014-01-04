@@ -1,9 +1,11 @@
 ## Interface: 50400
-## Version: 50400.0
+## Version: 50400.1
 ## Title: |cffc7c7cfv|rFasterQuesting
 ## Notes: Quest automation
 ## Author: Drauer | github/ForgedAddons
 ## DefaultState: Enabled
 ## LoadOnDemand: 0
+
+externals\events.lua
 
 main.lua
