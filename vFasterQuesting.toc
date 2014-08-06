@@ -1,11 +1,11 @@
-## Interface: 50400
-## Version: 50400.2
+## Interface: 60000
+## Version: 60000.0
 ## Title: |cffc7c7cfv|rFasterQuesting
 ## Notes: Quest automation
 ## Author: Drauer
 ## DefaultState: Enabled
 ## LoadOnDemand: 0
-## X-GitHub: ForgedAddons/vChalculator
+## X-GitHub: ForgedAddons/vFasterQuesting
 
 externals\events.lua
 main.lua
