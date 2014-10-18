@@ -1,8 +1,8 @@
 ## Interface: 60000
-## Version: 60000.0
+## Version: 60000.1
 ## Title: |cffc7c7cfv|rFasterQuesting
 ## Notes: Quest automation
-## Author: Drauer
+## Author: Drauer @Darkspear-EU / vforge @github
 ## DefaultState: Enabled
 ## LoadOnDemand: 0
 ## X-GitHub: ForgedAddons/vFasterQuesting

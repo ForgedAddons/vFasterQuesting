@@ -1,4 +1,6 @@
 WoW Addon: vFasterQuesting
 ========================
 
-Quest automation
+Automate quest pickup and return. Shift to override.
+
+Source: http://github.com/ForgedAddons/vFasterQuesting
